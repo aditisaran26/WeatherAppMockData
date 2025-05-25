@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  WeatherAppMockData
 //
-//  Created by CEPL on 20/05/25.
+//  Created by Aditi Ojha on 20/05/25.
 //
 
 import UIKit
